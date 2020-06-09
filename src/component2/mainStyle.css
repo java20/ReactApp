@@ -1,0 +1,34 @@
+#mainHtml,#mainStyle{
+    border: 1px solid black;
+    padding : 2% 2%;
+    margin-top: 2%;
+}
+
+#mainHtml{
+    color: white;
+    background-image: radial-gradient(#ffa366, #ff8533, #ff6600);
+}
+
+#mainStyle{
+    color:white;
+    background-image: radial-gradient(#80dfff, #4dd2ff, #00ace6);
+}
+
+#main{
+    color: white;
+    background-image: linear-gradient(to bottom right,#1aff1a, #1aff1a);
+}
+
+button.btn.btn3{
+    color:white;
+}
+
+
+button.btn.btn3:hover{
+    font-weight: bold;
+}
+
+sup{
+    color: red;
+    font-weight: bold;
+}

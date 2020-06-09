@@ -1,0 +1,53 @@
+body {
+    font-family: "Times New Roman", sans-serif;
+  }
+  
+  .sidenav2 {
+    height: 100%;
+    width: 20%;
+    position: fixed;
+    z-index: 1;
+    top: 0;
+    left: 0;
+    background-image: radial-gradient(#ffa366, #ff8533, #ff6600);
+    overflow-x: hidden;
+    padding-top: 20px;
+  }
+  
+  div.btn-group-vertical {
+    margin-top: 10%;
+    width: 100%; 
+  }
+
+  button.btn2{
+    color: white;
+    background-image: radial-gradient(#ffa366, #ff8533, #ff6600);
+    font-weight: bolder;
+    border-width: 0px;
+  }
+  
+    button.btn2:hover {
+         background-image: radial-gradient(#ff944d, #ff751a, #e65c00);
+         color: white;
+         font-weight: bolder;
+         font-size: larger;
+  }
+  
+  #main2 {
+    margin-left: 25%; /* Same as the width of the sidenav */
+    margin-right: 30%;
+  }
+  
+  @media screen and (max-height: 450px) {
+    .sidenav {padding-top: 15px;}
+    .sidenav a {font-size: 18px;}
+  }
+
+  #ToggleButton2{
+      margin-right: 70%;
+      margin-top: -5%;
+  }
+
+  #imgHtml{
+    margin-left: 5%;
+  }

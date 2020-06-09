@@ -1,0 +1,7 @@
+[0531/123400.834:ERROR:process_reader_win.cc(123)] NtOpenThread: {Access Denied} A process has requested access to an object, but has not been granted those access rights. (0xc0000022)
+[0531/123400.834:ERROR:process_reader_win.cc(123)] NtOpenThread: {Access Denied} A process has requested access to an object, but has not been granted those access rights. (0xc0000022)
+[0531/123401.112:ERROR:exception_snapshot_win.cc(98)] thread ID 7624 not found in process
+[0531/123401.112:ERROR:exception_snapshot_win.cc(98)] thread ID 7224 not found in process
+[0603/183751.870:ERROR:settings.cc(320)] Settings magic is not 1129342067
+[0603/194723.461:ERROR:settings.cc(320)] Settings magic is not 1129342067
+[0604/120920.437:ERROR:settings.cc(320)] Settings magic is not 1129342067
